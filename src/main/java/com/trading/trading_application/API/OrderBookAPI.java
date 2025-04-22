@@ -7,7 +7,6 @@ import com.trading.trading_application.lib.FixedPriceOrderQueue;
 import com.trading.trading_application.lib.Order;
 import com.trading.trading_application.lib.OrderBook;
 import com.trading.trading_application.lib.StockOrders;
-import com.trading.trading_application.utils.OrderLogger;
 import com.trading.trading_application.utils.TradeLogger;
 
 public class OrderBookAPI {
